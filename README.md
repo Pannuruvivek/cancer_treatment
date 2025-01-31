@@ -1,1 +1,1 @@
-# cancer_treatment - full stack proje
+# cancer_treatment - full stack proj
